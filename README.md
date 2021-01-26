@@ -1,8 +1,8 @@
-# UX Portfolio
+# Eric Colvin's UX Portfolio
 
 
-## UX Team Project
+## Eric's UX Team Project
 
 
-## UX Journal
+## Eric's UX Journal
 

@@ -12,6 +12,6 @@ Eric Colvin - 3/7/21
 ### [Journal Entry #2: Application Orientation](Journal2/README.md) 
 Eric Colvin - 4/25/21
 
-### [Journal Entry #3:](Journal3/README.md)
+### [Journal Entry #3: Netflix Autoplay](Journal3/README.md)
 Eric Colvin - 5/18/21
 
